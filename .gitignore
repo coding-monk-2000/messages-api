@@ -11,6 +11,7 @@ main
 
 # Coverage and test artifacts
 coverage.out
+coverage.html
 
 
 # SQLite or other local DBs
