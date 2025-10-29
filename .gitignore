@@ -1,0 +1,17 @@
+
+# Ignore compiled binary
+main
+
+# IDE/editor settings
+.vscode/
+
+# Environment files
+.env
+
+
+# Coverage and test artifacts
+coverage.out
+
+
+# SQLite or other local DBs
+*.db
